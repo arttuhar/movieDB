@@ -20,7 +20,7 @@ API key from [OMDb API](http://www.omdbapi.com)
 
 ## Demo
 
-Coming soon..
+- [Live demo](https://reactmoviedb.herokuapp.com)
 
 ## Setup
 
