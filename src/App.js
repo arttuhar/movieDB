@@ -33,7 +33,7 @@ const useStyles = makeStyles(theme => ({
 
 function App() {
 	const classes = useStyles();
-	const apiUrl = "http://www.omdbapi.com/?apikey=bf410ecf";
+	const apiUrl = "https://www.omdbapi.com/?apikey=bf410ecf";
 
 	const [state, setState] = useState({
 		searchQuery: "",
